@@ -20,6 +20,13 @@
       "price": "615.00",
       "description": "Distinctio non a vel nisi voluptatem.",
       "image": "https://fakeimg.pl/350x200/?text=Intelligent Steel Hat"
+    },
+    {
+      "name": "Keyboard",
+      "price": "99",
+      "description": "Keyboard 2",
+      "image": "Https://asdasdasd",
+      "id": 3
     }
   ]
 }
