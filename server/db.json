@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Awesome Steel Soap",
+      "price": "140.00",
+      "description": "Et iure amet numquam hic blanditiis quos molestiae deserunt doloremque.",
+      "image": "https://fakeimg.pl/350x200/?text=Awesome Steel Soap"
+    },
+    {
+      "id": 1,
+      "name": "Incredible Wooden Car",
+      "price": "181.00",
+      "description": "Quaerat quidem quod quibusdam totam velit.",
+      "image": "https://fakeimg.pl/350x200/?text=Incredible Wooden Car"
+    },
+    {
+      "id": 2,
+      "name": "Intelligent Steel Hat",
+      "price": "615.00",
+      "description": "Distinctio non a vel nisi voluptatem.",
+      "image": "https://fakeimg.pl/350x200/?text=Intelligent Steel Hat"
+    }
+  ]
+}
